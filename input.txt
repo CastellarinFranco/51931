@@ -1,8 +1,2 @@
-x = 2 + 3
-y = 3
-z = x + y
-z
-
-
-
-
+cuando luz es encendido entonces desactivar luz;
+cuando temperatura mayor que 25 entonces ajustar aire a 18;
