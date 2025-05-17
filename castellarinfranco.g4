@@ -1,7 +1,6 @@
 grammar castellarinfranco;
 
 
-
 // lexer
 CUANDO : 'cuando' ;
 ES : 'es';
